@@ -8,6 +8,8 @@ package edu.progavud.taller2pa.modelo;
  *
  * @author hailen
  */
-public class modelo {
+public enum Palo {
+    
+    picas, treboles, corazones, diamantes;
     
 }
